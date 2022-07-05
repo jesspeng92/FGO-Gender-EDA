@@ -1,6 +1,7 @@
 # FGO-Gender-EDA
 This project is a webscraping and exploratory data analysis project analyzing gender and other features in FGO.
 The data was scraped off of https://fategrandorder.fandom.com/wiki/Fate/Grand_Order_Wikia . 
+More information about the project and its specifics can be found in the html file.
 
 ## Requires Editing
 The data was scraped as of 6/23/2022. Servants added to the game after this date have not been added

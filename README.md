@@ -1,8 +1,12 @@
 # FGO-Gender-EDA
-This project is a webscraping and exploratory data analysis project analyzing gender and other features in FGO.
+This project is a webscraping and exploratory data analysis project analyzing gender and other features in FGO. This project was done in R Studio.
 The data was scraped off of https://fategrandorder.fandom.com/wiki/Fate/Grand_Order_Wikia. 
 
 More information about the project and its specifics can be found in the html file here: https://jesspeng92.github.io/FGO-Gender-EDA/FGO-Gender-Updated.html.
+
+## FGO Revenue
+This project aims to analyze the game's revenue trends throughout the years. (JP server). I would like to explore more information (such as the active player-base), though I'm not sure how I can access the data.
+This project was done in Python/Jupyter Notebook.
 
 ## Requires Editing
 The data was scraped as of 6/23/2022. Servants added to the game after this date have not been added
